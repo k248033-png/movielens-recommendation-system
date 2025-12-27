@@ -1,2 +1,2 @@
 # movielens-recommendation-system
-Content &amp; Collaborative Filtering using PySpark
+Collaborative Filtering ALS Method using PySpark
